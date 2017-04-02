@@ -22,4 +22,5 @@ See [the official aeternity repo](https://github.com/aeternity/testnet)
 
 ### ToDo
 - expose RPC port
+- proper persistence
 - test on windows

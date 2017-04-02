@@ -11,4 +11,4 @@ WORKDIR /home/docker/code
 RUN sh install.sh
 CMD sh start.sh
 
-VOLUME  ["/home/docker/code/"]
+VOLUME  ["/home/docker/"]
