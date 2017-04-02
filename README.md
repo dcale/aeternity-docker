@@ -10,7 +10,7 @@ This can take a while, depending on your internet connection and computing power
 
 ## Running
 ```
-docker run -it 8631a7e1f0d3 /bin/bash start.sh
+docker run -it aeternity/aeternity-testnet-node /bin/bash start.sh
 ```
 
 ### Commands
